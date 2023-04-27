@@ -20,13 +20,13 @@ Learn the Laravel PHP framework from scratch by building a job listings applicat
 ### Screenshots
 some screenshots : 
 
-![](images/1.jpg)
+![](public/images/1.jpg)
 
-![](images/2(1).jpg)
+![](public/images/2(1).jpg)
 
-![](images/3(1).jpg)
+![](public/images/3(1).jpg)
 
-![](images/4.png)
+![](public/images/4.png)
 
 ### Links
 
