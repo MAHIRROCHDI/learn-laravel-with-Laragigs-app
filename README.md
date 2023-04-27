@@ -22,9 +22,9 @@ some screenshots :
 
 ![](images/1.jpg)
 
-![](images/2 (1).jpg)
+![](images/2(1).jpg)
 
-![](images/3 (1).jpg)
+![](images/3(1).jpg)
 
 ![](images/4.png)
 
