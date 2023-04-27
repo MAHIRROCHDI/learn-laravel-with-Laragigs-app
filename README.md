@@ -22,9 +22,9 @@ some screenshots :
 
 ![](public/images/1.jpg)
 
-![](public/images/2(1).jpg)
+![](public/images/2 (1).jpg)
 
-![](public/images/3(1).jpg)
+![](public/images/3 (1).jpg)
 
 ![](public/images/4.png)
 
