@@ -1,6 +1,5 @@
 # learn-laravel-with-Laragigs-app
-Learn the Laravel PHP framework from scratch by building a job listings application with Laravel 9 and MySQL.
-
+I used the Laravel From Scratch 2022 course from Traversy Media as a revision tool to refresh my knowledge of the Laravel PHP framework. The course covered all the essential concepts that I had previously learned and provided a comprehensive review of building web applications with Laravel. The course was a valuable resource in helping me solidify my understanding of Laravel and prepare for my next project.
 ## Table of contents
 
 - [Overview](#overview)
